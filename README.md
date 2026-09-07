@@ -22,7 +22,6 @@ The application allows users to add, update, delete, search, and organize invent
 The application supports the following inventory categories:
 
 * Tyres
-
   * Scooter
   * Bike
   * Car
@@ -128,7 +127,7 @@ To use your own Firebase project:
 2. Add your Flutter application.
 3. Configure Firebase using FlutterFire CLI.
 4. Enable Cloud Firestore.
-5. Update the Firebase configuration files.
+5. Generate the Firebase configuration file for your project.
 
 ## Future Improvements
 
@@ -151,22 +150,29 @@ GitHub: https://github.com/tarunrangad
 ## Screenshots
 
 ### Add Inventory Item
+
 ![Add Item](screenshots/add_items_tab.jpg)
 
 ### Dark Mode
+
 ![Dark Mode](screenshots/dark_mode.jpg)
 
 ### Tyres
+
 ![Tyres](screenshots/tyres_tab.jpg)
 
 ### Search Items
+
 ![Search](screenshots/search_functionality.jpg)
 
 ### Tubes
+
 ![Tubes](screenshots/tubes_tab.jpg)
 
 ### Helmets
+
 ![Helmets](screenshots/helmets_tab.jpg)
 
 ### Visors
+
 ![Visors](screenshots/visors_tab.jpg)
