@@ -151,28 +151,28 @@ GitHub: https://github.com/tarunrangad
 
 ### Add Inventory Item
 
-![Add Item](screenshots/add_items_tab.jpg)
+<img src="screenshots/add_items_tab.jpg" alt="Add Inventory Item" width="300">
 
 ### Dark Mode
 
-![Dark Mode](screenshots/dark_mode.jpg)
+<img src="screenshots/dark_mode.jpg" alt="Dark Mode" width="300">
 
 ### Tyres
 
-![Tyres](screenshots/tyres_tab.jpg)
+<img src="screenshots/tyres_tab.jpg" alt="Tyres" width="300">
 
 ### Search Items
 
-![Search](screenshots/search_functionality.jpg)
+<img src="screenshots/search_functionality.jpg" alt="Search Items" width="300">
 
 ### Tubes
 
-![Tubes](screenshots/tubes_tab.jpg)
+<img src="screenshots/tubes_tab.jpg" alt="Tubes" width="300">
 
 ### Helmets
 
-![Helmets](screenshots/helmets_tab.jpg)
+<img src="screenshots/helmets_tab.jpg" alt="Helmets" width="300">
 
 ### Visors
 
-![Visors](screenshots/visors_tab.jpg)
+<img src="screenshots/visors_tab.jpg" alt="Visors" width="300">
