@@ -147,3 +147,26 @@ To use your own Firebase project:
 **Tarun Rangad**
 
 GitHub: https://github.com/tarunrangad
+
+## Screenshots
+
+### Add Inventory Item
+![Add Item](screenshots/add_item_tab.png)
+
+### Dark Mode
+![Dark Mode](screenshots/dark_mode.png)
+
+### Tyres
+![Tyres](screenshots/tyres_tab.png)
+
+### Search Items
+![Search](screenshots/search_functionality.png)
+
+### Tubes
+![Tubes](screenshots/tubes_tab.png)
+
+### Helmets
+![Helmets](screenshots/helmets_tab.png)
+
+### Visors
+![Visors](screenshots/visors_tab.png)
