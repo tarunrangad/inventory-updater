@@ -1,0 +1,27 @@
+name: inventory_updater
+description: A simple inventory updater app
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+  provider: ^6.0.5
+  sqflite: ^2.3.3
+  path: ^1.9.0
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.2.1
+  cloud_firestore: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
